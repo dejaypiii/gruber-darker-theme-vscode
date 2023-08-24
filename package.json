@@ -1,0 +1,21 @@
+{
+  "name": "gruber-darker",
+  "displayName": "Gruber Darker",
+  "description": "Visual Studio Code version of the Gruber Darker theme made by Alexey Kutepov a.k.a. rexim, based on the Gruber Dark theme for BBEdit by John Gruber.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruber Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gruber Darker-color-theme.json"
+      }
+    ]
+  }
+}
