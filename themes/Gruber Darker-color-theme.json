@@ -176,6 +176,57 @@
       "settings": {
         "foreground": "#73c936"
       }
+    },
+    {
+      "scope": "variable.language.this",
+      "settings": {
+        "foreground": "#ffdd33"
+      }
+    },
+    {
+      "scope": "variable.language.super",
+      "settings": {
+        "foreground": "#ffdd33"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx",
+        "entity.name.tag",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#73c936"
+      }
+    },
+    {
+      "scope": "meta.tag.jsx",
+      "settings": {
+        "foreground": "#73c936"
+      }
+    },
+    {
+      "scope": "string.quoted.double.jsx",
+      "settings": {
+        "foreground": "#73c936"
+      }
+    },
+    {
+      "scope": "keyword.operator.jsx",
+      "settings": {
+        "foreground": "#ffdd33"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.tag.jsx",
+        "punctuation.definition.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#73c936"
+      }
     }
   ]
 }

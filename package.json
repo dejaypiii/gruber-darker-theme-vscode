@@ -3,6 +3,10 @@
   "displayName": "Gruber Darker",
   "description": "Visual Studio Code version of the Gruber Darker theme made by Alexey Kutepov a.k.a. rexim, based on the Gruber Dark theme for BBEdit by John Gruber.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciscosilva00/gruber-darker-theme-vscode"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
