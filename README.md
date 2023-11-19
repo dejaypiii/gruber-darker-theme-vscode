@@ -3,4 +3,4 @@ Visual Studio Code version of the Gruber Darker theme made by Alexey Kutepov a.k
 
 This fork tries to reduce the number of different colors and uses yellow instead of green as the highlight color.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/dejaypiii/gruber-darker-theme-vscode/blob/main/screenshot.png?raw=true)
