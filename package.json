@@ -2,7 +2,7 @@
   "name": "gruber-darker-yellow",
   "displayName": "Gruber darker (yellow)",
   "description": "Visual Studio Code version of the Gruber Darker theme made by Alexey Kutepov a.k.a. rexim a.k.a. Tsoding, based on the Gruber Dark theme for BBEdit by John Gruber. This fork tries to reduce the number of different colors and uses yellow instead of green as the highlight color.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "dejaypiii",
   "icon": "icon.png",
   "repository": {
